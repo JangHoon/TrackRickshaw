@@ -1,6 +1,6 @@
 
   <div class="col-md-2">
-<ul>
+<ul class="nav nav-pills nav-stacked">
 <?php
 foreach ($topics as $entry) {
 ?>
